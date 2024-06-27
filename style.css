@@ -1,0 +1,19 @@
+body{
+        background-color: coral;
+        text-align: center;
+}
+
+
+.div-container{
+    background-color: yellow;
+    justify-content: center;
+    text-align: center;
+    height: 350px;
+    width: 350px;
+}
+
+.boton{
+    border-radius: 130px;
+    background-color: blue;
+    color: white;
+}
